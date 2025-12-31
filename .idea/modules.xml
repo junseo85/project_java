@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CylinderClassWithCircleInheritance/CylinderClassWithCircleInheritance.iml" filepath="$PROJECT_DIR$/CylinderClassWithCircleInheritance/CylinderClassWithCircleInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartKitchen/SmartKitchen.iml" filepath="$PROJECT_DIR$/SmartKitchen/SmartKitchen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringOptions/StringOptions.iml" filepath="$PROJECT_DIR$/StringOptions/StringOptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Worker/Worker.iml" filepath="$PROJECT_DIR$/Worker/Worker.iml" />
       <module fileurl="file://$PROJECT_DIR$/project_java.iml" filepath="$PROJECT_DIR$/project_java.iml" />
     </modules>
