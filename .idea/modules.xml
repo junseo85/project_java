@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BedroomComposition/BedroomComposition.iml" filepath="$PROJECT_DIR$/BedroomComposition/BedroomComposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car_challenge/Car_challenge.iml" filepath="$PROJECT_DIR$/Car_challenge/Car_challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/CuboidPoolAreaCalculation/CuboidPoolAreaCalculation.iml" filepath="$PROJECT_DIR$/CuboidPoolAreaCalculation/CuboidPoolAreaCalculation.iml" />
       <module fileurl="file://$PROJECT_DIR$/CylinderClassWithCircleInheritance/CylinderClassWithCircleInheritance.iml" filepath="$PROJECT_DIR$/CylinderClassWithCircleInheritance/CylinderClassWithCircleInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
