@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/BedroomComposition/BedroomComposition.iml" filepath="$PROJECT_DIR$/BedroomComposition/BedroomComposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bill_burger/Bill_burger.iml" filepath="$PROJECT_DIR$/Bill_burger/Bill_burger.iml" />
       <module fileurl="file://$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" filepath="$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" />
