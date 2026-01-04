@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BedroomComposition/BedroomComposition.iml" filepath="$PROJECT_DIR$/BedroomComposition/BedroomComposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bill_burger/Bill_burger.iml" filepath="$PROJECT_DIR$/Bill_burger/Bill_burger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" filepath="$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Car_Polymorphism/Car_Polymorphism.iml" filepath="$PROJECT_DIR$/Car_Polymorphism/Car_Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Car_challenge/Car_challenge.iml" filepath="$PROJECT_DIR$/Car_challenge/Car_challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/CuboidPoolAreaCalculation/CuboidPoolAreaCalculation.iml" filepath="$PROJECT_DIR$/CuboidPoolAreaCalculation/CuboidPoolAreaCalculation.iml" />
