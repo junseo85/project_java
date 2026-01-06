@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/CylinderClassWithCircleInheritance/CylinderClassWithCircleInheritance.iml" filepath="$PROJECT_DIR$/CylinderClassWithCircleInheritance/CylinderClassWithCircleInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumElement/MinimumElement.iml" filepath="$PROJECT_DIR$/MinimumElement/MinimumElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartKitchen/SmartKitchen.iml" filepath="$PROJECT_DIR$/SmartKitchen/SmartKitchen.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringOptions/StringOptions.iml" filepath="$PROJECT_DIR$/StringOptions/StringOptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/UsingArrays/UsingArrays.iml" filepath="$PROJECT_DIR$/UsingArrays/UsingArrays.iml" />
