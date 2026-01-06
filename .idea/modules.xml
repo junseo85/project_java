@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/UsingArrays/UsingArrays.iml" filepath="$PROJECT_DIR$/UsingArrays/UsingArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Worker/Worker.iml" filepath="$PROJECT_DIR$/Worker/Worker.iml" />
       <module fileurl="file://$PROJECT_DIR$/project_java.iml" filepath="$PROJECT_DIR$/project_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverseArray/reverseArray.iml" filepath="$PROJECT_DIR$/reverseArray/reverseArray.iml" />
     </modules>
   </component>
 </project>
