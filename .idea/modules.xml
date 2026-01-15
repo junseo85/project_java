@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallenge1/ArrayListChallenge1.iml" filepath="$PROJECT_DIR$/ArrayListChallenge1/ArrayListChallenge1.iml" />
       <module fileurl="file://$PROJECT_DIR$/BedroomComposition/BedroomComposition.iml" filepath="$PROJECT_DIR$/BedroomComposition/BedroomComposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bill_burger/Bill_burger.iml" filepath="$PROJECT_DIR$/Bill_burger/Bill_burger.iml" />
       <module fileurl="file://$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" filepath="$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" />
